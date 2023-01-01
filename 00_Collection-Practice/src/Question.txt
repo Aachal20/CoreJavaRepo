@@ -1,0 +1,14 @@
+Develop a project to store multiple student objects by using ArrayList
+Perform below operations
+
+   	1) Store Student objects of different courses with different fees
+	2) Count and display how many student are available
+	3) Search for the student whose state is 101, HK, CJ
+		if found display HK is available in class 
+		if not found display HK is not available in class
+	4) Retrieve the student whose state is 101, BK, CJ
+	    and update his course to AJ and fee to 3500
+	5) Display the modified content of this student
+	     and also display all students available in AL    	 
+	     
+	     
