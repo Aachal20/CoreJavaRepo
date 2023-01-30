@@ -6,7 +6,8 @@ public class Test05_StringProb_WhySBuffer {
 		
 		String s1 = "hari";
 		System.out.println("Before concat: "+s1);
-		s1.concat(" krishna");
+		 s1 = s1.concat(" krishna");
+		//System.out.println(ss);
 		System.out.println("After concat: "+s1);
 		
 		System.out.println();
